@@ -1,0 +1,8 @@
+{
+  "launcher": { "version": 2, "url": "https://github.com/YOUR_USER/minkytv/releases/download/v2/MinkyTV.apk" },
+  "apps": [
+    { "name": "YouTube (SmartTube)", "pkg": "com.teamsmart.videomanager.tv", "version": 1, "url": "https://github.com/YOUR_USER/minkytv/releases/download/apps/SmartTube.apk" },
+    { "name": "VK Видео", "pkg": "com.vk.vkvideo", "version": 1, "url": "https://github.com/YOUR_USER/minkytv/releases/download/apps/VKVideo.apk" },
+    { "name": "Happ VPN", "pkg": "com.happproxy", "version": 1, "url": "https://github.com/YOUR_USER/minkytv/releases/download/apps/Happ.apk" }
+  ]
+}
