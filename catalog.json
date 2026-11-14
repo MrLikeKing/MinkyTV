@@ -1,9 +1,32 @@
 {
-  "launcher": { "version": 2, "url": "https://github.com/MrLikeKing/MinkyTV/blob/main/MinkyTV.apk" },
+  "launcher": {
+    "version": 6,
+    "url": "https://raw.githubusercontent.com/MrLikeKing/MinkyTV/main/MinkyTV.apk"
+  },
   "apps": [
-    { "name": "YouTube (SmartTube)", "pkg": "com.teamsmart.videomanager.tv", "version": 1, "url": "https://github.com/MrLikeKing/MinkyTV/releases/download/smarttube/SmartTube_stable_32.71_arm64-v8a.apk" },
-    { "name": "VK Видео", "pkg": "com.vk.vkvideo", "version": 1, "url": "https://github.com/MrLikeKing/MinkyTV/releases/download/vkvideo/vk-video-1-171.apk" },
-    { "name": "Happ VPN", "pkg": "com.happproxy", "version": 1, "url": "https://github.com/MrLikeKing/MinkyTV/releases/download/happ/Happ.apk" },
-    { "name": "KinoPoisk", "pkg": "com.kinopoisk", "version": 1, "url": "https://github.com/MrLikeKing/MinkyTV/releases/download/kinopoisk/kinopoisk-7-110-1.apk" }
+    {
+      "name": "YouTube (SmartTube)",
+      "pkg": "com.teamsmart.videomanager.tv",
+      "version": 1,
+      "url": "https://github.com/MrLikeKing/MinkyTV/releases/download/smarttube/SmartTube_stable_32.71_arm64-v8a.apk"
+    },
+    {
+      "name": "VK Видео",
+      "pkg": "com.vk.vkvideo",
+      "version": 1,
+      "url": "https://github.com/MrLikeKing/MinkyTV/releases/download/vkvideo/vk-video-1-171.apk"
+    },
+    {
+      "name": "Happ VPN",
+      "pkg": "com.happproxy",
+      "version": 1,
+      "url": "https://github.com/MrLikeKing/MinkyTV/releases/download/happ/Happ.apk"
+    },
+    {
+      "name": "KinoPoisk",
+      "pkg": "ru.kinopoisk",
+      "version": 1,
+      "url": "https://github.com/MrLikeKing/MinkyTV/releases/download/kinopoisk/kinopoisk-7-110-1.apk"
+    }
   ]
 }
